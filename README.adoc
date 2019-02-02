@@ -1,5 +1,8 @@
-== quick-n-dirty-colemakModDH
+= quick-n-dirty-colemakModDH
 
-Poor man's easy way to set up Colemak ModDH on your *NIX system
+
+[.big]#*Poor man's easy way to set up https://colemakmods.github.io/mod-dh[Colemak ModDH] on your *NIX system*#
+
 Currently, this will just create a backup copy of the old files the OS uses to store keyboard layouts and then put new copies in place. These files are the default files from the OS PLUSH the modifications.
+
 Yes yes, there are better ways of doing this, and I'll make those changes maybe on a plane ride or something. But for now it does as stated above. If this scares you, don't use the script, but you can use the provide files as templates or do your own visual comparisons. I called this "quick-n-dirty" didn't I?
